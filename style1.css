@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+    background-image: url("https://koro.imgix.net/media/dd/04/bb/1646341407/KAFFEE_013_02.jpg?w=3000&auto=format,compress&fit=max");
+    display: block;
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4% 14%;
+    background-color: rgba(255, 255, 255, 0.3);
+    font-family: 'Oswald', sans-serif;
+}
+
+.menu{
+    padding: 2% 2%;
+    background-color: rgb(243, 193, 144);
+    width: 83%;
+}
+
+.header{
+    text-align: center;
+    border-bottom: 8px solid brown;
+    padding-bottom: 1%;
+}
+
+ 
+.p{
+    font-style: italic;
+    font-size: 150%;
+    margin: 1%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
+h{
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: Impact, serif
+
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: Impact, serif;
+}
+
+.menu_item{
+    font-size: 25px;
+    padding-bottom: 4%;
+    border-bottom: 8px solid brown;
+}
+
+.fa-solid {
+    font-weight: 900;
+}
+
+.items_lists{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.menu_item h1{
+    font-size: 250%;
+    margin: 2% 0%;
+}
+
+.Footer_Data{
+    margin-top: 2%;
+    font-size: 120%;
+    text-align: center;
+}
+.Footer_Data a{
+    color: black;
+}
+
